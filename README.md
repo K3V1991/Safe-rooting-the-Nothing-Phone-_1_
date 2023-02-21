@@ -17,8 +17,11 @@
 * USB Driver for your Device, [Google Driver](https://developer.android.com/studio/run/win-usb) or [Universal ADB Driver](https://adb.clockworkmod.com)
 * payload-dumper-go - [GitHub](https://github.com/ssut/payload-dumper-go)
 * Platform Tools - [Android Developers](https://developer.android.com/studio/releases/platform-tools) or ADB & Fastboot++ - [GitHub](https://github.com/K3V1991/ADB-and-FastbootPlusPlus)
-* Magisk - [Github](https://github.com/topjohnwu/Magisk)
-* **Note:** You can skip to Step 10 if you installed Magisk Manager & download my pre-patched Boot Image under Release Tab
+* Magisk - [GitHub](https://github.com/topjohnwu/Magisk)
+<br />
+
+## Note:
+You can skip to Step 10 if you installed Magisk Manager & download my pre-patched Boot Image under [Release Tab](https://github.com/K3V1991/Safe-rooting-the-Nothing-Phone-_1_/releases)
 <br />
 <br />
 
