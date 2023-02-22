@@ -37,7 +37,7 @@ You can skip to Step 10 if you installed Magisk Manager & download my pre-patche
 9. Pull the patched Image with this Command: adb pull /sdcard/Download/magisk_patched_[random_strings].img (Change [random_strings] with the real Name of your File) <br />
 10. Type: adb reboot bootloader (Phone reboots to Bootloader) <br />
 11. Type: fastboot devices (Lists Devices in Fastboot) <br />
-12. Type: fastboot flash boot /path/to/magisk_patched_[random_strings].img (Change [random_strings] with the real Name of your File) <br />
+12. Type: fastboot boot /path/to/magisk_patched_[random_strings].img (Change [random_strings] with the real Name of your File) <br />
 13. Type: fastboot reboot (Boots Phone to System) <br />
 14. Open "Magisk Manager" click on "Install" > Direct Install (Recommended) > after Installation, Reboot
 15. After restart open "Magisk Manger" to verify Root
