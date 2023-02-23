@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/Z8sKcpL/Safe-Rooting.png" width="200"></a>
+<p align="center"><img src="https://github.com/K3V1991/Safe-rooting-the-Nothing-Phone-_1_/blob/main/Safe-Rooting.png" width="200"></a>
 <h1 align="center"><b>Safe rooting the Nothing Phone (1)</b></h1>
 <br />
 
